@@ -1,0 +1,6 @@
+1. app directory works as a main part of the app. 
+2. layout.js is called master layout.
+3. page.js is working for homepage.
+4. if we need others page, we have to create the directory inside of app directory.
+5. if we need to create navbar then we create it outside of app directory, then we create it in src file. Then we import the navbar of those file, which page need a navbar.
+6. in public folder we store our images which are need for our site.

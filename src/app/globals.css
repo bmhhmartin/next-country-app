@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+    body {
+        @apply dark:bg-gray-800 bg-white
+    }
+}
+
+.dark {
+    background-color: rgb(33, 33, 47);
+    color: white;
+}
+
+.bg-custom{
+    background: #efefef;
+    color: #000000;
+}
